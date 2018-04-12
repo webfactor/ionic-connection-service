@@ -1,4 +1,2 @@
-export * from './sample.module';
-export * from './sample.component';
-export * from './sample.service';
-export * from './sample.module';
+export * from './connection-service.module';
+export * from './providers/connection-service'

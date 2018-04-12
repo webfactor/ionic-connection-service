@@ -15,7 +15,7 @@
   "typings": "./ionic-connection-service.d.ts",
   "peerDependencies": {
     "@angular/core": "^5.0.0",
-    "@angular/common": "^5.0.0",
-    "@angular/http": "^5.0.0"
+    "@ionic-native/network":"4.7.0",
+    "cordova-plugin-network-information":"2.0.1"
   }
 }
