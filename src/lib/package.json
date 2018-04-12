@@ -1,5 +1,5 @@
 {
-  "name": "ionic-connection-service",
+  "name": "@webfactor/ionic-connection-service",
   "version": "0.1.0",
   "repository": {
     "type": "git",
