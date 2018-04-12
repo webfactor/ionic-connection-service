@@ -11,11 +11,11 @@ export class ConnectionService {
         this.isConnected = this.getType() != 'none';
     }
 
-    public getType() {
+    public getType(): string {
         return this.network.type;
     }
 
-    public isWifi() {
+    public isWifi(): boolean  {
         return this.network.type == 'wifi';
     }
 
