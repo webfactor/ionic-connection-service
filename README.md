@@ -13,6 +13,11 @@ Can check if device is connected and show the type of connection
 `ionic cordova plugin add cordova-plugin-network-information` /
 `npm install --save @ionic-native/network`
  
+## Properties
+```typescript
+isConnected: boolean
+```
+Show if device is connected with any network (Wifi, 3g, 2g etc.)
 
 ## Methods
 
