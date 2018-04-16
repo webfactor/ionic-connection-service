@@ -1,4 +1,4 @@
-# IonicConnenctionService
+# IonicConnectionService
 
 Can check if device is connected and show the type of connection
 
