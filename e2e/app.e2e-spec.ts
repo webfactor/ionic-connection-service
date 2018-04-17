@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('ionic-connenction-service App', () => {
+describe('ionic-connection-service App', () => {
   let page: AppPage;
 
   beforeEach(() => {
