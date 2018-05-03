@@ -1,20 +1,18 @@
 {
   "name": "@webfactor/ionic-connection-service",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "repository": {
     "type": "git",
     "url": "url"
   },
-  "keywords": [
-    "angular"
-  ],
+  "keywords": ["angular"],
   "license": "MIT",
   "main": "./bundles/ionic-connection-service.umd.js",
   "es2015": "./esm2015/ionic-connection-service.js",
   "module": "./esm5/ionic-connection-service.es5.js",
   "typings": "./ionic-connection-service.d.ts",
   "peerDependencies": {
-    "@ionic-native/network":"4.7.0",
-    "cordova-plugin-network-information":"2.0.1"
+    "@ionic-native/network": "4.7.0",
+    "cordova-plugin-network-information": "2.0.1"
   }
 }
